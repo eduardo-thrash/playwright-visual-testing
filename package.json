@@ -1,0 +1,14 @@
+{
+  "name": "playwright-visual-testing",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "test": "playwright-bdd"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.45.0",
+    "playwright-bdd": "^2.0.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.4.0"
+  }
+}
